@@ -30,7 +30,8 @@ A responsive React application to calculate loan EMI, view amortization schedule
 
 ## 📦 Getting Started
 
-```bash
+
+bash
 git clone https://github.com/Himu1908/loan-emi-calculator.git
 cd loan-emi-calculator
 npm install
